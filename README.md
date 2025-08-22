@@ -1,4 +1,4 @@
-# source-code-for-cahatbox
+# source-code-for-chatbox
 # Importing necessary libraries
 import pandas as pd
 from sentence_transformers import SentenceTransformer
